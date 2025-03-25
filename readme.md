@@ -4,7 +4,7 @@ This repository contains automated browser UI tests using **Selenium**, written 
 
 ---
 
-##  urrent Test(s)
+##  Current Test(s)
 
 ###  Google Search Test
 Performs a Google search and verifies that search results are displayed.
