@@ -2,7 +2,6 @@
 
 This repository contains automated browser UI tests using **Selenium**, written in **Python**, and executed in **Firefox** with **GeckoDriver**.
 
----
 
 ##  Current Test(s)
 
