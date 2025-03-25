@@ -69,7 +69,7 @@ python tests/test_google_search.py
 ---
 
 ## Author
-[Your Name](https://github.com/oksanalim)
+[Oksanalim](https://github.com/oksanalim)
 
 ---
 
